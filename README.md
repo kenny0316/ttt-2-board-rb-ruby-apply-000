@@ -3,7 +3,9 @@
 ## Overview
 
 ### The Tic Tac Toe Board
-
+cell_1 "X"
+cell_2 ""
+cell_3 "3"
 When building a Tic Tac Toe program, you're going to have to figure out a way to store or represent the game board. Looking at a Tic Tac Toe board, we can identify a few properties.
 
 ```
