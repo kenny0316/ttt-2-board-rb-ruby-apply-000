@@ -1,12 +1,12 @@
-cell_1 = "x"
-cell_2 = ""
+row [1] = "x"
+row [2] = ""
 
-cell_3 = "o"
-cell_4 = "x"
-cell_5 = "o"
+row [3] = "o"
+row [4] = "x"
+row[5] = "o"
 
-cell_6 = "x"
-cell_7 ="o"
-cell_8 = "x"
+row [6] = "x"
+row [7]  ="o"
+row [8] = "x"
 
-cell_9 = "o"
+row [9]  = "o"
